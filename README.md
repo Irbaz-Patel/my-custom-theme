@@ -21,4 +21,4 @@ This is a custom WordPress theme developed for the Web Developer Project Assignm
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/novel-office-theme.git
+   git clone https://github.com/Irbaz-Patel/my-custom-theme.git
